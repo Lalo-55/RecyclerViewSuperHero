@@ -49,7 +49,7 @@ class superHeroInfor {
                 "Laloman7",
                 "Jetbrains",
                 "LuisEdua",
-                "https://static2.diariovasco.com/www/multimedia/202009/19/media/cortadas/58376959--1248x1418.jpg"
+                "https://www.geekmi.news/__export/1623433413016/sites/debate/img/2021/06/11/gokx-1.jpg_1339198940.jpg"
             )
         )
     }
